@@ -1,5 +1,4 @@
 ### [题目链接](http://codeforces.com/problemset/problem/791/A)
-
 ### <font color=blue>**题目意思**</font>
 现在有两头熊，分别为熊大，熊二。他们的体重分别为a，b，其中a<=b。熊大每年体重增加三倍，熊二每年体重增加两倍。现在问过几年熊大的体重比熊二重。
 
